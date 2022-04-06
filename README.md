@@ -2,6 +2,12 @@
 
 Weekly open-ended data wrangling and visualization challenges in R from https://github.com/rfordatascience/tidytuesday
 
+## News Organizations (2022-04-05)
+
+Most common words in local online media outlets' names.
+
+![Most common words in local online media outlets names](2022-04-05%20News%20Orgs/2022-04-05.png)
+
 ## Collegiate Sports (2022-03-29)
 
 Gender inequality in collegiate basketball expenditures 2019-2020
