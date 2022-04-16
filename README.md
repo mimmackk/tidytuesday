@@ -2,6 +2,12 @@
 
 Weekly open-ended data wrangling and visualization challenges in R from https://github.com/rfordatascience/tidytuesday
 
+## Clean Fuel Access & Household Air Pollution Deaths (2022-04-12)
+
+Percent of population with clean fuel access compared to deaths due to household air pollution by country, 2000-2016.
+
+![Percent of population with clean fuel access versus deaths due to household air pollution](2022-04-12%20Fuel%20Deaths/2022-04-12.png)
+
 ## News Organizations (2022-04-05)
 
 Most common words in local online media outlets' names.
