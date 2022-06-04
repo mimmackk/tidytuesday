@@ -60,6 +60,7 @@ wins_by_year |>
   
   # Style plot
   scale_y_continuous(labels = scales::percent) +
+  scale_x_continuous(breaks = c(1995, 2000, 2005, 2010, 2015, 2020)) +
   labs(
     x = "Year",
     y = "% Games Won by Home Teams",
